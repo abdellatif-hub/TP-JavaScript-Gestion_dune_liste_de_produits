@@ -35,10 +35,15 @@ tpjs1/
 ├── package.json
 ├── node_modules/
 └── README.md
+````
 
 <img width="1922" height="867" alt="image" src="https://github.com/user-attachments/assets/41f26961-3283-4ae0-96d1-96adca7d5980" />
+
 ----
-## 🧪 Fonctionnalités
-✔ Partie A – Création et affichage
+
+# 🧪 Fonctionnalités
+
+# ✔ Partie A – Création et affichage:
+- Création des produits sous forme d’objets
 
 
