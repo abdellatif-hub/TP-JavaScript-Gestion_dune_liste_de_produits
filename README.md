@@ -21,9 +21,9 @@ Les produits sont regroupés dans un tableau et manipulés à l’aide des méth
 
 ## 🧰 Technologies utilisées
 
-- JavaScript (ES6+)
+- JavaScript 
 - Node.js
-- readline-sync
+- readline
 
 ---
 
